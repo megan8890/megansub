@@ -1,0 +1,22 @@
+name: Update SUB
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - run: python3 generate.py
+
+      - run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add sub.txt
+          git commit -m "update" || echo "no changes"
+          git push
