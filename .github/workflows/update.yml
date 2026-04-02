@@ -24,6 +24,9 @@ jobs:
       - name: Generate SUB
         run: python generate.py
 
+      - name: Install requests
+        run: pip install requests
+
       - name: Update Gist
         run: python update_gist.py
         env:
