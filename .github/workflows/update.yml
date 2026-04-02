@@ -9,14 +9,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - run: python3 generate.py
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
 
-      - run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@github.com"
+      - name: Generate SUB
+        run: python generate.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add sub.txt
-          git commit -m "update" || echo "no changes"
+          git commit -m "update sub" || echo "no changes"
           git push
