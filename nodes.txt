@@ -1,5 +1,6 @@
-vless://c3184ad7-73b0-4287-ace0-6351b8457e85@188.244.122.138:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=game.gamepassion.shop&fp=chrome&type=ws&sni=game.gamepassion.shop#🇩🇪 Germany CF 1
-vless://c3184ad7-73b0-4287-ace0-6351b8457e85@208.103.161.2:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=game.gamepassion.shop&fp=chrome&type=ws&sni=game.gamepassion.shop#🇩🇪Germany CF 2
+vless://6b04b385-7e62-4df4-88ba-2582733d4a84@188.244.122.138:443?security=tls&type=ws&headerType=&path=%2F&host=game.gamepassion.shop&sni=game.gamepassion.shop&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Ws%201
+vless://6b04b385-7e62-4df4-88ba-2582733d4a84@208.103.161.2:443?security=tls&type=ws&headerType=&path=%2F&host=game.gamepassion.shop&sni=game.gamepassion.shop&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Ws%202
 ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ%3D%3D@46.250.254.170:80#%F0%9F%87%AC%F0%9F%87%A7%20London%2C%20ENG%2C%20United%20Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.185.37:990#%F0%9F%87%B2%F0%9F%87%B0%20Skopje%2C%20North%20Macedonia
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.82.252.109:990#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@114.45.143.7:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taipei%2C%20TPE%2C%20Taiwan
