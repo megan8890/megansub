@@ -1,6 +1,5 @@
 vless://6b04b385-7e62-4df4-88ba-2582733d4a84@188.244.122.138:443?security=tls&type=ws&headerType=&path=%2F&host=game.gamepassion.shop&sni=game.gamepassion.shop&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Ws%201
 vless://6b04b385-7e62-4df4-88ba-2582733d4a84@208.103.161.2:443?security=tls&type=ws&headerType=&path=%2F&host=game.gamepassion.shop&sni=game.gamepassion.shop&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Ws%202
-ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ%3D%3D@46.250.254.170:80#%F0%9F%87%AC%F0%9F%87%A7%20London%2C%20ENG%2C%20United%20Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.185.37:990#%F0%9F%87%B2%F0%9F%87%B0%20Skopje%2C%20North%20Macedonia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.82.252.109:990#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@114.45.143.7:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taipei%2C%20TPE%2C%20Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjZlMmZhZS00ZDdkLTQ2OGMtOWU3ZC1lMjdjZTQ4MzE5MWQ%3D@43.162.127.196:10020#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20CA%2C%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.15.185.70:990#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus
+vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@193.233.253.73:8443?security=reality&encryption=none&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=deadbeef42#%F0%9F%87%A9%F0%9F%87%B0
